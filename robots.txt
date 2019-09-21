@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baujaenah.jochenhuber.de/sitemap.xml
